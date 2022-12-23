@@ -1,3 +1,3 @@
 # AGroup
 
-Hello team
+Hello teams
