@@ -1,0 +1,10 @@
+GIT:
+Activity:
+1.Create new repo 
+2.Settings-collobarators-Addpeople
+   I)Added people Accepts invitation
+3.Settings-Branches-Branch protection rule-Branch name pattern(main)-Check Require a pull request- set Require approvals to 1
+4.Commits will be done by all the branches
+5.compare pull request-go to any branch commit-files changes-review changes-approve
+6.Remaining branches need to resolve merge conflicts and respective requests must be approved
+7. Then all the changes will be merged to main
